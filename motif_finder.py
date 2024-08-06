@@ -25,4 +25,4 @@ plt.yticks([])
 plt.xticks(positions)
 plt.grid(True,axis='x',linestyle='--',color='gray',alpha=0.7)
 plt.show()
-tek tek kodu açıklar mısın
+
